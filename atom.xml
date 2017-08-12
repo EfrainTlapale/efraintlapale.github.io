@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://devsandstuff.com/"/>
-  <updated>2017-08-11T21:37:01.545Z</updated>
+  <updated>2017-08-12T15:56:06.715Z</updated>
   <id>http://devsandstuff.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://devsandstuff.com/ES6GoodiesIntro/"/>
     <id>http://devsandstuff.com/ES6GoodiesIntro/</id>
     <published>2017-01-21T06:09:14.000Z</published>
-    <updated>2017-08-11T21:37:01.545Z</updated>
+    <updated>2017-08-12T15:56:06.715Z</updated>
     
-    <content type="html"><![CDATA[<img src="https://s19.postimg.org/bb7x25fs3/es6features.png"/><p>In this article series we’re going to take a look to some of my favorites ES6 features</p>
+    <content type="html"><![CDATA[<img src="https://s19.postimg.org/bb7x25fs3/es6features.png"/><p>Hello, In this article series we’re going to take a look to some of my favorites ES6 features</p>
 <p>To get started: <strong>What is ES6?</strong>  </p>
 <p>ES6 or ECMAScript2015 or ES2015 is not the latest version of JavaScript, currently it is the ES7 standard, but ES6 is the one that brings a lot of exciting features to JavaScript</p>
 <p>Before ES6 was released, the latest version of a JavaScript standard was ES5 in 2009, which introduced JSON, so, you can see that there is a gap between releases of 6 years, and as you can imagine it came whit a lot of new features and new ways of doing some things, fortunately, if you are working with ES5 and want to switch to ES6, you won’t feel like you’re programming in a completely new language, is more like feeling that you’re programming with JavaScript on steroids, and to prove that, we’re going to start with a simple but powerful feature: <strong>Destructuring Assignment</strong></p>
@@ -64,7 +64,7 @@
     
     <summary type="html">
     
-      &lt;img src=&quot;https://s19.postimg.org/bb7x25fs3/es6features.png&quot;/&gt;&lt;p&gt;In this article series we’re going to take a look to some of my favorites E
+      &lt;img src=&quot;https://s19.postimg.org/bb7x25fs3/es6features.png&quot;/&gt;&lt;p&gt;Hello, In this article series we’re going to take a look to some of my favo
     
     </summary>
     
